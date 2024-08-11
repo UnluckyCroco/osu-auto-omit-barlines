@@ -1,0 +1,1 @@
+# osu-auto-omit-barlines
